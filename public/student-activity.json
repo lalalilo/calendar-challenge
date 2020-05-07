@@ -1,0 +1,1982 @@
+[
+  {
+    "exercise": "graphology_letter_recognition",
+    "from": "HOME",
+    "startTimestamp": 1585057952358,
+    "endTimestamp": 1585057997358
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585059129573,
+    "endTimestamp": 1585059202573
+  },
+  {
+    "exercise": "phonology_rime",
+    "from": "HOME",
+    "startTimestamp": 1585059343750,
+    "endTimestamp": 1585059394750
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1585059398178,
+    "endTimestamp": 1585059416178
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1585059444280,
+    "endTimestamp": 1585059534280
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1585059509555,
+    "endTimestamp": 1585059587555
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585059712814,
+    "endTimestamp": 1585059730814
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585059933861,
+    "endTimestamp": 1585060005861
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585060149869,
+    "endTimestamp": 1585060211869
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585060510018,
+    "endTimestamp": 1585060533018
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585060638316,
+    "endTimestamp": 1585060673316
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585122223367,
+    "endTimestamp": 1585122269367
+  },
+  {
+    "exercise": "memory",
+    "from": "SCHOOL",
+    "startTimestamp": 1585122297576,
+    "endTimestamp": 1585122343576
+  },
+  {
+    "exercise": "discovery_grapheme_to_phoneme",
+    "from": "SCHOOL",
+    "startTimestamp": 1585122330967,
+    "endTimestamp": 1585122414967
+  },
+  {
+    "exercise": "graphology_letter_recognition",
+    "from": "SCHOOL",
+    "startTimestamp": 1585122382132,
+    "endTimestamp": 1585122445132
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "SCHOOL",
+    "startTimestamp": 1585157464801,
+    "endTimestamp": 1585157523801
+  },
+  {
+    "exercise": "phonology_blending",
+    "from": "SCHOOL",
+    "startTimestamp": 1585157638555,
+    "endTimestamp": 1585157691555
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585157733257,
+    "endTimestamp": 1585157802257
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "SCHOOL",
+    "startTimestamp": 1585157818803,
+    "endTimestamp": 1585157865803
+  },
+  {
+    "exercise": "memory",
+    "from": "SCHOOL",
+    "startTimestamp": 1585157928504,
+    "endTimestamp": 1585157994504
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "SCHOOL",
+    "startTimestamp": 1585158008024,
+    "endTimestamp": 1585158097024
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "SCHOOL",
+    "startTimestamp": 1585158631438,
+    "endTimestamp": 1585158653438
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585158767672,
+    "endTimestamp": 1585158802672
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585158825573,
+    "endTimestamp": 1585158847573
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585158995697,
+    "endTimestamp": 1585159020697
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585159071660,
+    "endTimestamp": 1585159122660
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585159120856,
+    "endTimestamp": 1585159139856
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "SCHOOL",
+    "startTimestamp": 1585159184795,
+    "endTimestamp": 1585159257795
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585159254769,
+    "endTimestamp": 1585159308769
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "SCHOOL",
+    "startTimestamp": 1585159307758,
+    "endTimestamp": 1585159380758
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585159383628,
+    "endTimestamp": 1585159459628
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "SCHOOL",
+    "startTimestamp": 1585159438253,
+    "endTimestamp": 1585159494253
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "SCHOOL",
+    "startTimestamp": 1585159630232,
+    "endTimestamp": 1585159670232
+  },
+  {
+    "exercise": "memory",
+    "from": "SCHOOL",
+    "startTimestamp": 1585159698634,
+    "endTimestamp": 1585159772634
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "SCHOOL",
+    "startTimestamp": 1585159833355,
+    "endTimestamp": 1585159923355
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "SCHOOL",
+    "startTimestamp": 1585160171458,
+    "endTimestamp": 1585160260458
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "SCHOOL",
+    "startTimestamp": 1585162111826,
+    "endTimestamp": 1585162165826
+  },
+  {
+    "exercise": "reading",
+    "from": "SCHOOL",
+    "startTimestamp": 1585162519969,
+    "endTimestamp": 1585162590969
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585225763982,
+    "endTimestamp": 1585225794982
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1585225822350,
+    "endTimestamp": 1585225852350
+  },
+  {
+    "exercise": "phonology_rime",
+    "from": "HOME",
+    "startTimestamp": 1585225882615,
+    "endTimestamp": 1585225933615
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1585225952321,
+    "endTimestamp": 1585226032321
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585226063061,
+    "endTimestamp": 1585226082061
+  },
+  {
+    "exercise": "phonology_rime",
+    "from": "HOME",
+    "startTimestamp": 1585226127662,
+    "endTimestamp": 1585226154662
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1585226585609,
+    "endTimestamp": 1585226668609
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585226665137,
+    "endTimestamp": 1585226685137
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585226790055,
+    "endTimestamp": 1585226843055
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585226864960,
+    "endTimestamp": 1585226908960
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1585227122961,
+    "endTimestamp": 1585227170961
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585227199286,
+    "endTimestamp": 1585227235286
+  },
+  {
+    "exercise": "complete_sentence",
+    "from": "HOME",
+    "startTimestamp": 1585227253829,
+    "endTimestamp": 1585227317829
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585227315052,
+    "endTimestamp": 1585227368052
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585227523087,
+    "endTimestamp": 1585227574087
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585227667020,
+    "endTimestamp": 1585227726020
+  },
+  {
+    "exercise": "reading",
+    "from": "HOME",
+    "startTimestamp": 1585227990567,
+    "endTimestamp": 1585228015567
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585228202038,
+    "endTimestamp": 1585228223038
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1585228502204,
+    "endTimestamp": 1585228574204
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1585228567176,
+    "endTimestamp": 1585228604176
+  },
+  {
+    "exercise": "discovery_grapheme_to_phoneme",
+    "from": "HOME",
+    "startTimestamp": 1585228593751,
+    "endTimestamp": 1585228674751
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585228688325,
+    "endTimestamp": 1585228731325
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1585228741404,
+    "endTimestamp": 1585228825404
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585228839187,
+    "endTimestamp": 1585228916187
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585229111378,
+    "endTimestamp": 1585229193378
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585229155023,
+    "endTimestamp": 1585229190023
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585229243141,
+    "endTimestamp": 1585229310141
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585229293262,
+    "endTimestamp": 1585229330262
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585229378900,
+    "endTimestamp": 1585229399900
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1585229522069,
+    "endTimestamp": 1585229559069
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585229626204,
+    "endTimestamp": 1585229714204
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585229681275,
+    "endTimestamp": 1585229698275
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585229767888,
+    "endTimestamp": 1585229817888
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585229837135,
+    "endTimestamp": 1585229909135
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585229885962,
+    "endTimestamp": 1585229905962
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585567648065,
+    "endTimestamp": 1585567700065
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585567707506,
+    "endTimestamp": 1585567724506
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585567771729,
+    "endTimestamp": 1585567786729
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1585568230289,
+    "endTimestamp": 1585568284289
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585568361179,
+    "endTimestamp": 1585568447179
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585590572492,
+    "endTimestamp": 1585590646492
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585590619833,
+    "endTimestamp": 1585590701833
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585590707951,
+    "endTimestamp": 1585590778951
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585590802140,
+    "endTimestamp": 1585590879140
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585590857322,
+    "endTimestamp": 1585590883322
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585590921954,
+    "endTimestamp": 1585590995954
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585591169799,
+    "endTimestamp": 1585591193799
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585591207772,
+    "endTimestamp": 1585591239772
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585591281869,
+    "endTimestamp": 1585591333869
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1585591813614,
+    "endTimestamp": 1585591867614
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585653411474,
+    "endTimestamp": 1585653470474
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585653512903,
+    "endTimestamp": 1585653545903
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585653582798,
+    "endTimestamp": 1585653628798
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585653670439,
+    "endTimestamp": 1585653742439
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585653705951,
+    "endTimestamp": 1585653729951
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585653795903,
+    "endTimestamp": 1585653818903
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585653831848,
+    "endTimestamp": 1585653905848
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1585654149186,
+    "endTimestamp": 1585654200186
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585654388441,
+    "endTimestamp": 1585654468441
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585654462804,
+    "endTimestamp": 1585654542804
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585654512030,
+    "endTimestamp": 1585654559030
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585654602521,
+    "endTimestamp": 1585654687521
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585654664046,
+    "endTimestamp": 1585654711046
+  },
+  {
+    "exercise": "reading",
+    "from": "HOME",
+    "startTimestamp": 1585654747401,
+    "endTimestamp": 1585654799401
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585654859460,
+    "endTimestamp": 1585654929460
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585654960564,
+    "endTimestamp": 1585655030564
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585655006176,
+    "endTimestamp": 1585655075176
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585655126198,
+    "endTimestamp": 1585655173198
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585655183211,
+    "endTimestamp": 1585655240211
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585655275720,
+    "endTimestamp": 1585655354720
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585655368166,
+    "endTimestamp": 1585655457166
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1585656082268,
+    "endTimestamp": 1585656125268
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585656186704,
+    "endTimestamp": 1585656212704
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585656219785,
+    "endTimestamp": 1585656252785
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585656244543,
+    "endTimestamp": 1585656322543
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585656284242,
+    "endTimestamp": 1585656373242
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585656310086,
+    "endTimestamp": 1585656326086
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1585656493360,
+    "endTimestamp": 1585656572360
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585656750512,
+    "endTimestamp": 1585656836512
+  },
+  {
+    "exercise": "reading",
+    "from": "HOME",
+    "startTimestamp": 1585656901255,
+    "endTimestamp": 1585656937255
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585656983352,
+    "endTimestamp": 1585657005352
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1585663738368,
+    "endTimestamp": 1585663763368
+  },
+  {
+    "exercise": "graphology_letter_recognition",
+    "from": "HOME",
+    "startTimestamp": 1585663780313,
+    "endTimestamp": 1585663850313
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1585663877312,
+    "endTimestamp": 1585663959312
+  },
+  {
+    "exercise": "phonology_rime",
+    "from": "HOME",
+    "startTimestamp": 1585663934415,
+    "endTimestamp": 1585663989415
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585664019726,
+    "endTimestamp": 1585664106726
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1585664113630,
+    "endTimestamp": 1585664176630
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585664233486,
+    "endTimestamp": 1585664319486
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585664338811,
+    "endTimestamp": 1585664416811
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585672668278,
+    "endTimestamp": 1585672737278
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585672781800,
+    "endTimestamp": 1585672798800
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585672829258,
+    "endTimestamp": 1585672915258
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585672900779,
+    "endTimestamp": 1585672924779
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585672971795,
+    "endTimestamp": 1585673061795
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1585673177286,
+    "endTimestamp": 1585673261286
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585673255518,
+    "endTimestamp": 1585673275518
+  },
+  {
+    "exercise": "sort",
+    "from": "SCHOOL",
+    "startTimestamp": 1585749083895,
+    "endTimestamp": 1585749138895
+  },
+  {
+    "exercise": "reading",
+    "from": "SCHOOL",
+    "startTimestamp": 1585749225318,
+    "endTimestamp": 1585749307318
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "SCHOOL",
+    "startTimestamp": 1585749563976,
+    "endTimestamp": 1585749607976
+  },
+  {
+    "exercise": "memory",
+    "from": "SCHOOL",
+    "startTimestamp": 1585749756305,
+    "endTimestamp": 1585749826305
+  },
+  {
+    "exercise": "reading",
+    "from": "SCHOOL",
+    "startTimestamp": 1585749849062,
+    "endTimestamp": 1585749894062
+  },
+  {
+    "exercise": "graphology_letter_recognition",
+    "from": "SCHOOL",
+    "startTimestamp": 1585749910564,
+    "endTimestamp": 1585749937564
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "SCHOOL",
+    "startTimestamp": 1585749994100,
+    "endTimestamp": 1585750020100
+  },
+  {
+    "exercise": "phonology_blending",
+    "from": "SCHOOL",
+    "startTimestamp": 1585750047257,
+    "endTimestamp": 1585750105257
+  },
+  {
+    "exercise": "graphology_presence_classic",
+    "from": "SCHOOL",
+    "startTimestamp": 1585750106041,
+    "endTimestamp": 1585750149041
+  },
+  {
+    "exercise": "phonology_blending",
+    "from": "SCHOOL",
+    "startTimestamp": 1585750178490,
+    "endTimestamp": 1585750231490
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585750259680,
+    "endTimestamp": 1585750335680
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585750397859,
+    "endTimestamp": 1585750422859
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585750545212,
+    "endTimestamp": 1585750619212
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585750629114,
+    "endTimestamp": 1585750713114
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585750784151,
+    "endTimestamp": 1585750813151
+  },
+  {
+    "exercise": "memory",
+    "from": "SCHOOL",
+    "startTimestamp": 1585750967192,
+    "endTimestamp": 1585751042192
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "SCHOOL",
+    "startTimestamp": 1585751029890,
+    "endTimestamp": 1585751061890
+  },
+  {
+    "exercise": "memory",
+    "from": "SCHOOL",
+    "startTimestamp": 1585751085179,
+    "endTimestamp": 1585751123179
+  },
+  {
+    "exercise": "memory",
+    "from": "SCHOOL",
+    "startTimestamp": 1585751142164,
+    "endTimestamp": 1585751187164
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "SCHOOL",
+    "startTimestamp": 1585751230684,
+    "endTimestamp": 1585751268684
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "SCHOOL",
+    "startTimestamp": 1585751386395,
+    "endTimestamp": 1585751448395
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585826390030,
+    "endTimestamp": 1585826405030
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585826435955,
+    "endTimestamp": 1585826480955
+  },
+  {
+    "exercise": "reading",
+    "from": "HOME",
+    "startTimestamp": 1585826502240,
+    "endTimestamp": 1585826566240
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1585826702858,
+    "endTimestamp": 1585826783858
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585826898611,
+    "endTimestamp": 1585826949611
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585826969557,
+    "endTimestamp": 1585827037557
+  },
+  {
+    "exercise": "reading",
+    "from": "HOME",
+    "startTimestamp": 1585827130390,
+    "endTimestamp": 1585827145390
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1585827181619,
+    "endTimestamp": 1585827230619
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585827232212,
+    "endTimestamp": 1585827286212
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1585827277539,
+    "endTimestamp": 1585827363539
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585827316394,
+    "endTimestamp": 1585827393394
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585827340488,
+    "endTimestamp": 1585827396488
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585827396635,
+    "endTimestamp": 1585827439635
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585827500113,
+    "endTimestamp": 1585827553113
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585827537732,
+    "endTimestamp": 1585827561732
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585835537184,
+    "endTimestamp": 1585835578184
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585835581342,
+    "endTimestamp": 1585835650342
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585835677857,
+    "endTimestamp": 1585835750857
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585835769898,
+    "endTimestamp": 1585835847898
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1585836440490,
+    "endTimestamp": 1585836507490
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585836508343,
+    "endTimestamp": 1585836579343
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585836584677,
+    "endTimestamp": 1585836643677
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585836651357,
+    "endTimestamp": 1585836694357
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585836708907,
+    "endTimestamp": 1585836771907
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585836770065,
+    "endTimestamp": 1585836845065
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1585836969355,
+    "endTimestamp": 1585836996355
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585837055732,
+    "endTimestamp": 1585837112732
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585837190138,
+    "endTimestamp": 1585837241138
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585837261041,
+    "endTimestamp": 1585837334041
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585837313267,
+    "endTimestamp": 1585837328267
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585837370545,
+    "endTimestamp": 1585837456545
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585837425825,
+    "endTimestamp": 1585837486825
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585837476412,
+    "endTimestamp": 1585837521412
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585837547127,
+    "endTimestamp": 1585837562127
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585912820573,
+    "endTimestamp": 1585912838573
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585912898010,
+    "endTimestamp": 1585912938010
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1585913281702,
+    "endTimestamp": 1585913299702
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1585913644118,
+    "endTimestamp": 1585913728118
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1585913790072,
+    "endTimestamp": 1585913878072
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1585913860904,
+    "endTimestamp": 1585913920904
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1585913935341,
+    "endTimestamp": 1585913969341
+  },
+  {
+    "exercise": "phonology_rime",
+    "from": "HOME",
+    "startTimestamp": 1585913987064,
+    "endTimestamp": 1585914038064
+  },
+  {
+    "exercise": "phonology_blending",
+    "from": "HOME",
+    "startTimestamp": 1585914051269,
+    "endTimestamp": 1585914117269
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1585914297231,
+    "endTimestamp": 1585914332231
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1585914423838,
+    "endTimestamp": 1585914477838
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1585914466030,
+    "endTimestamp": 1585914519030
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1585914523353,
+    "endTimestamp": 1585914593353
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1585914959218,
+    "endTimestamp": 1585915049218
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586002193445,
+    "endTimestamp": 1586002226445
+  },
+  {
+    "exercise": "reading",
+    "from": "HOME",
+    "startTimestamp": 1586002481694,
+    "endTimestamp": 1586002536694
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1586002675224,
+    "endTimestamp": 1586002694224
+  },
+  {
+    "exercise": "phonology_blending",
+    "from": "HOME",
+    "startTimestamp": 1586002727104,
+    "endTimestamp": 1586002766104
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1586002792483,
+    "endTimestamp": 1586002824483
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1586002883424,
+    "endTimestamp": 1586002903424
+  },
+  {
+    "exercise": "phonology_rime",
+    "from": "HOME",
+    "startTimestamp": 1586002944946,
+    "endTimestamp": 1586002993946
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586002993978,
+    "endTimestamp": 1586003031978
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586003147520,
+    "endTimestamp": 1586003199520
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586003181398,
+    "endTimestamp": 1586003232398
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586003303218,
+    "endTimestamp": 1586003363218
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1586003485117,
+    "endTimestamp": 1586003548117
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1586086712323,
+    "endTimestamp": 1586086795323
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1586086792951,
+    "endTimestamp": 1586086868951
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586086836216,
+    "endTimestamp": 1586086862216
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1586086920379,
+    "endTimestamp": 1586087000379
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586086960310,
+    "endTimestamp": 1586087026310
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1586087054368,
+    "endTimestamp": 1586087110368
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1586087421421,
+    "endTimestamp": 1586087451421
+  },
+  {
+    "exercise": "matching",
+    "from": "HOME",
+    "startTimestamp": 1586087585136,
+    "endTimestamp": 1586087646136
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586087668656,
+    "endTimestamp": 1586087711656
+  },
+  {
+    "exercise": "matching",
+    "from": "HOME",
+    "startTimestamp": 1586087702779,
+    "endTimestamp": 1586087756779
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586087830297,
+    "endTimestamp": 1586087882297
+  },
+  {
+    "exercise": "matching",
+    "from": "HOME",
+    "startTimestamp": 1586087864436,
+    "endTimestamp": 1586087910436
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586087940008,
+    "endTimestamp": 1586087968008
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586095904958,
+    "endTimestamp": 1586095924958
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586096004937,
+    "endTimestamp": 1586096089937
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586096090614,
+    "endTimestamp": 1586096111614
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1586096142030,
+    "endTimestamp": 1586096227030
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586096351340,
+    "endTimestamp": 1586096396340
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586096466224,
+    "endTimestamp": 1586096534224
+  },
+  {
+    "exercise": "reading",
+    "from": "HOME",
+    "startTimestamp": 1586096609866,
+    "endTimestamp": 1586096637866
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1586096784976,
+    "endTimestamp": 1586096841976
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586171181438,
+    "endTimestamp": 1586171259438
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586171330429,
+    "endTimestamp": 1586171415429
+  },
+  {
+    "exercise": "graphology_letter_recognition",
+    "from": "HOME",
+    "startTimestamp": 1586171381775,
+    "endTimestamp": 1586171458775
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1586171480946,
+    "endTimestamp": 1586171561946
+  },
+  {
+    "exercise": "phonology_presence_speed",
+    "from": "HOME",
+    "startTimestamp": 1586171533648,
+    "endTimestamp": 1586171563648
+  },
+  {
+    "exercise": "graphology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1586171584265,
+    "endTimestamp": 1586171652265
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1586171641146,
+    "endTimestamp": 1586171706146
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1586171885765,
+    "endTimestamp": 1586171924765
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586431467388,
+    "endTimestamp": 1586431548388
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586431556965,
+    "endTimestamp": 1586431605965
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586431619340,
+    "endTimestamp": 1586431645340
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1586431913083,
+    "endTimestamp": 1586431982083
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1586431979181,
+    "endTimestamp": 1586432029181
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1586434508562,
+    "endTimestamp": 1586434562562
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1586434557078,
+    "endTimestamp": 1586434596078
+  },
+  {
+    "exercise": "phonology_blending",
+    "from": "HOME",
+    "startTimestamp": 1586434608317,
+    "endTimestamp": 1586434697317
+  },
+  {
+    "exercise": "phonology_presence_speed",
+    "from": "HOME",
+    "startTimestamp": 1586434659996,
+    "endTimestamp": 1586434714996
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586434787539,
+    "endTimestamp": 1586434829539
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586434889979,
+    "endTimestamp": 1586434954979
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586435005899,
+    "endTimestamp": 1586435082899
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586435037514,
+    "endTimestamp": 1586435056514
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586435129035,
+    "endTimestamp": 1586435168035
+  },
+  {
+    "exercise": "matching",
+    "from": "HOME",
+    "startTimestamp": 1586435175624,
+    "endTimestamp": 1586435204624
+  },
+  {
+    "exercise": "reading",
+    "from": "HOME",
+    "startTimestamp": 1586440486824,
+    "endTimestamp": 1586440509824
+  },
+  {
+    "exercise": "matching",
+    "from": "HOME",
+    "startTimestamp": 1586440525460,
+    "endTimestamp": 1586440612460
+  },
+  {
+    "exercise": "matching",
+    "from": "HOME",
+    "startTimestamp": 1586440568969,
+    "endTimestamp": 1586440620969
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586440607778,
+    "endTimestamp": 1586440648778
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586440664172,
+    "endTimestamp": 1586440703172
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586440726696,
+    "endTimestamp": 1586440794696
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586440775395,
+    "endTimestamp": 1586440850395
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586440828884,
+    "endTimestamp": 1586440884884
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586440870907,
+    "endTimestamp": 1586440899907
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586440951841,
+    "endTimestamp": 1586441014841
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586441014604,
+    "endTimestamp": 1586441033604
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586441101634,
+    "endTimestamp": 1586441151634
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586441159027,
+    "endTimestamp": 1586441191027
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586441253070,
+    "endTimestamp": 1586441333070
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586441314496,
+    "endTimestamp": 1586441358496
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1586441485831,
+    "endTimestamp": 1586441543831
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586441569949,
+    "endTimestamp": 1586441638949
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1586441625465,
+    "endTimestamp": 1586441649465
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586441659735,
+    "endTimestamp": 1586441732735
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1586441805256,
+    "endTimestamp": 1586441873256
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1586441931808,
+    "endTimestamp": 1586442002808
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586442027256,
+    "endTimestamp": 1586442095256
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1586442094443,
+    "endTimestamp": 1586442162443
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586442177939,
+    "endTimestamp": 1586442207939
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1586442251803,
+    "endTimestamp": 1586442292803
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1586442305356,
+    "endTimestamp": 1586442377356
+  },
+  {
+    "exercise": "phonology_rime",
+    "from": "HOME",
+    "startTimestamp": 1586442366414,
+    "endTimestamp": 1586442386414
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1586500633838,
+    "endTimestamp": 1586500690838
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586517502608,
+    "endTimestamp": 1586517545608
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586517534445,
+    "endTimestamp": 1586517594445
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586517628236,
+    "endTimestamp": 1586517661236
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586517676740,
+    "endTimestamp": 1586517701740
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586517743032,
+    "endTimestamp": 1586517808032
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586517786592,
+    "endTimestamp": 1586517875592
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1586517842705,
+    "endTimestamp": 1586517908705
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586517887211,
+    "endTimestamp": 1586517971211
+  },
+  {
+    "exercise": "grade_level_comprehension",
+    "from": "HOME",
+    "startTimestamp": 1586520317892,
+    "endTimestamp": 1586520382892
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1586520466992,
+    "endTimestamp": 1586520536992
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586520514042,
+    "endTimestamp": 1586520599042
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1586520562924,
+    "endTimestamp": 1586520588924
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1586520602120,
+    "endTimestamp": 1586520625120
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1586520642479,
+    "endTimestamp": 1586520704479
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1586520701651,
+    "endTimestamp": 1586520753651
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1586520759634,
+    "endTimestamp": 1586520847634
+  },
+  {
+    "exercise": "complete_sentence",
+    "from": "HOME",
+    "startTimestamp": 1586520809571,
+    "endTimestamp": 1586520866571
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1586520855240,
+    "endTimestamp": 1586520919240
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1586520937342,
+    "endTimestamp": 1586520974342
+  },
+  {
+    "exercise": "combinatory_composition_word",
+    "from": "HOME",
+    "startTimestamp": 1586521656533,
+    "endTimestamp": 1586521738533
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1587820399963,
+    "endTimestamp": 1587820451963
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1587820459253,
+    "endTimestamp": 1587820528253
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1587823708160,
+    "endTimestamp": 1587823775160
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1587986881987,
+    "endTimestamp": 1587986899987
+  },
+  {
+    "exercise": "sort",
+    "from": "HOME",
+    "startTimestamp": 1587986998745,
+    "endTimestamp": 1587987052745
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1587987155845,
+    "endTimestamp": 1587987211845
+  },
+  {
+    "exercise": "independent_reading",
+    "from": "HOME",
+    "startTimestamp": 1587987452687,
+    "endTimestamp": 1587987485687
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1587987525957,
+    "endTimestamp": 1587987594957
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1587987565501,
+    "endTimestamp": 1587987632501
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1588075482408,
+    "endTimestamp": 1588075501408
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1588075504327,
+    "endTimestamp": 1588075540327
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1588075584808,
+    "endTimestamp": 1588075655808
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1588075658729,
+    "endTimestamp": 1588075710729
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1588076359357,
+    "endTimestamp": 1588076417357
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1588076416581,
+    "endTimestamp": 1588076431581
+  },
+  {
+    "exercise": "phonology_presence_classic",
+    "from": "HOME",
+    "startTimestamp": 1588663268082,
+    "endTimestamp": 1588663287082
+  },
+  {
+    "exercise": "phonology_presence_speed",
+    "from": "HOME",
+    "startTimestamp": 1588663319359,
+    "endTimestamp": 1588663383359
+  },
+  {
+    "exercise": "combinatory_discrimination_word",
+    "from": "HOME",
+    "startTimestamp": 1588663357344,
+    "endTimestamp": 1588663411344
+  },
+  {
+    "exercise": "combinatory_complete_word",
+    "from": "HOME",
+    "startTimestamp": 1588663402803,
+    "endTimestamp": 1588663484803
+  },
+  {
+    "exercise": "phonology_presence_speed",
+    "from": "HOME",
+    "startTimestamp": 1588663453210,
+    "endTimestamp": 1588663500210
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1588663506823,
+    "endTimestamp": 1588663558823
+  },
+  {
+    "exercise": "flash_discrimination",
+    "from": "HOME",
+    "startTimestamp": 1588664075768,
+    "endTimestamp": 1588664107768
+  },
+  {
+    "exercise": "memory",
+    "from": "HOME",
+    "startTimestamp": 1588664124381,
+    "endTimestamp": 1588664176381
+  }
+]

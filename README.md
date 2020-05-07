@@ -1,44 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Lalilo's Calendar Challenge
 
-## Available Scripts
+As the confinement is taking away students from their teacher, teachers need to have a better insight on their student's activity. Natacha, our product owner, has been working hard to understand what teachers do need. It appears that a first step would be to display the student activity on a calendar view.
 
-In the project directory, you can run:
+Marjorie, our designer, as produced an incredible calendar design.
 
-### `yarn start`
+![calendar](./calendar.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Millions of teachers in the worlds are now dependent on you to have insights on their student's work. After working hard, Natacha and Marjorie left on holidays for 2 weeks. They trust you to handle this nicely.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Your mission is to develop this calendar.
 
-### `yarn test`
+The project can be started like this:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+yarn install && yarn start
+```
 
-### `yarn build`
+It has been tested on Node 12.16 but should work with most of Node versions.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The tests can be launched with:
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```bash
+yarn test
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Your reviewer will take a close look to the following criterias:
 
-### `yarn eject`
+- The readability of the code (simplicity, variables naming, code splitting, commit naming & split...)
+- The maintainability of the code (separation of responsabilities...)
+- The relevancy of tests if any
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+The reviewer would appreciate to see the result of your work on a URL such as github pages (or any tool of your choice).
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+You're encouraged to install any npm package that would bring value to develop this feature. We do care about the final size of the bundle (teachers often have poor connections) so take this into account if you decide to install a package (https://bundlephobia.com/ can help).
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Tip: you should probably not use a node package to display a calendar because Marjorie has plenty of customization ideas. It will probably be easier to maintain our own calendar layout.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Specs
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- The calendar displays only the activity at home
+- The time of the daily activity is the sum of the time spent per exercise (end - start) of that day
+- The disk should follow these rules:
+  - the area is proportional to the time spent when the time spent is less than or equal to 30min.
+  - The diameter is 0px when the activity is 0min.
+  - The diameteer is 40px when the activity is 30min or more.
+- A sample of student activity is available in `public/student-activity.json`. It should be fetched through an HTTP request as if it was served from an API.
