@@ -4,7 +4,7 @@ As the confinement is taking away students from their teacher, teachers need to 
 
 Marjorie, our designer, as produced an incredible calendar design.
 
-![calendar](./calendar.png)
+<img src="./calendar.png" width="200" />
 
 Millions of teachers in the worlds are now dependent on you to have insights on their student's work. After working hard, Natacha and Marjorie left on holidays for 2 weeks. They trust you to handle this nicely.
 
