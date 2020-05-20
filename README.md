@@ -72,6 +72,7 @@ Display the total number of active days per month:
   - the area is proportional to the time spent when the time spent is less than or equal to 30min.
   - The diameter is 0px when the activity is 0min.
   - The diameter is 40px when the activity is 30min or more.
+  - The diameter is proportinal to the time spent if the student was active between 0 and 30min.
 
 ### Level 5 : Calendar with day of the week
 
