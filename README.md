@@ -36,7 +36,7 @@ yarn test --watch
 <img src="./assets/level1.png" width="200" />
 
 Display the total number of active days :
-- you will find the data to display in <a href="./public/student-activity.json">the activity list</a> containing for your student : 
+- you will find the data to display in <a href="./public/student-activity.json">the activity list</a> containing for a given student : 
   - the name of the exercise
   - whether the exercise was done at home or at school
   - the start and end timestamps for this exercise
