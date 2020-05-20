@@ -28,7 +28,7 @@ yarn test --watch
 
 - Solve the levels in ascending order. Split your work in at least one commit per level (always specifiy the level in the commit message)
 - Spend about 2h on the challenge, we don't expect you to finish (especially we don't expect junior to go beyond level 1 or 2) it but we do expect the code you produce to be clean, maintainable and robust.
-- you're free to add any package that could help you (although we don't advise you to do so for the calendar, as Marjo has plenty of customization ideas)
+- You're free to add any package that could help you. However, avoid using a lib providing a calendar UI since Marjo has plenty of customization ideas we might implement later
 - Open a pull request to send your result
 
 ### Level 1 :  Global activities overview
