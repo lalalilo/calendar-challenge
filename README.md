@@ -40,7 +40,7 @@ Display the total number of active days :
   - the name of the exercise
   - whether the exercise was done at home or at school
   - the start and end timestamps for this exercise
-  - It should be fetched through an HTTP request as if it was served from an API.
+  - This file or its content should not be copied in your project. You should fetch the file using an HTTP request as if it was served from an API.
 - we only want to display activities performed at home for this calendar
 - a day is defined as active when a student did at least one exercise during this day
 
