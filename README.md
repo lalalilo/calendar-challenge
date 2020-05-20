@@ -1,6 +1,6 @@
 # Lalilo Calendar Challenge
 
-As the confinement is taking away students from them, teachers need to have a better insight on their student's activity. Natacha, our product owner, has been working hard to understand what teachers do need. It appears that a first step would be to display the student activity on a calendar view.
+As the confinement is taking away students from them, teachers need to have a better insight on their students' activity. Natacha, our product owner, has been working hard to understand what teachers do need. It appears that a first step would be to display a student's activity on a calendar view.
 
 Marjorie, our designer, has produced an incredible calendar design.
 
