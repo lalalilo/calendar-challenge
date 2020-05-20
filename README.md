@@ -42,7 +42,7 @@ Display the total number of active days :
   - the start and end timestamps for this exercise
   - It should be fetched through an HTTP request as if it was served from an API.
 - we only want to display activities performed at home for this calendar
-- a day is active when a student did at least one exercise during this day
+- a day is defined as active when a student did at least one exercise during this day
 
 ### Level 2 : Monthly activities overview
 
