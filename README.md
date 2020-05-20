@@ -1,51 +1,84 @@
-# Lalilo's Calendar Challenge
+# Lalilo Calendar Challenge
 
-As the confinement is taking away students from their teacher, teachers need to have a better insight on their student's activity. Natacha, our product owner, has been working hard to understand what teachers do need. It appears that a first step would be to display the student activity on a calendar view.
+As the confinement is taking away students from them, teachers need to have a better insight on their student's activity. Natacha, our product owner, has been working hard to understand what teachers do need. It appears that a first step would be to display the student activity on a calendar view.
 
 Marjorie, our designer, has produced an incredible calendar design.
 
-<img src="./calendar.png" width="200" />
+<img src="./assets/calendar.png" width="200" />
 
 Millions of teachers in the world are now dependent on you to have insights on their student's work. After working hard, Natacha and Marjorie left on holidays for 2 weeks. They trust you to handle this nicely.
 
-Your mission is to develop this calendar.
+Your mission is to develop this calendar. 
 
 ## How to get started
 
-The project can be started like this:
-
+- Make sure you have git, node, and npm or yarn installed locally
+- Clone this repo
+- Start the app : 
 ```bash
 yarn install && yarn start
 ```
-
-It has been tested on Node 12.16 but should work with most of Node versions.
-
-The tests can be launched with:
+- Launch test : 
 
 ```bash
 yarn test --watch
 ```
 
-## Specs
+## Guidelines
 
-- The calendar displays only the activity at home
-- The time of the daily activity is the sum of the time spent per exercise (end - start) of that day
+- Solve the levels in ascending order. Split your work in at least one commit per level (always specifiy the level in the commit message)
+- Spend about 2h on the challenge, we don't expect you to finish (especially we don't expect junior to go beyond level 1 or 2) it but we do expect the code you produce is clean, maintainable and robust.
+- you're free to add any package that could help you (although we don't advise you to do so for the calendar, as Marjo has plenty of customization ideas)
+- Open a pull request to send your result
+
+### Level 1 :  Global activities overview
+
+<img src="./assets/level1.png" width="200" />
+
+Display the total number of active days :
+- you will find the data to display in <a href="./public/student-activity.json">the activity list</a> containing for your student : 
+  - the name of the exercise
+  - whether the exercise was done at home or at school
+  - the start and end timestamps for this exercise
+  - It should be fetched through an HTTP request as if it was served from an API.
+- we only want to display activities performed at home for this calendar
+- a day is active when a student did at least one exercise during this day
+
+### Level 2 : Monthly activities overview
+
+<img src="./assets/level2.png" width="200" />
+
+Display the total number of active days per month:
+- clicking on the left arrow will go to previous month
+- clicking on the right arrow will go to next month, if it's not in the future. The button should be disabled (grey) otherwise.
+- by default, show the last active month
+
+### Level 3 : Calendar of active days
+
+<img src="./assets/level3.png" width="200" />
+
+- Display each day of the month through dots
+- a dot is black if no activity was made this day, orange otherwise
+- you don't need to match days of the week, you can display 4 lines of 7 columns and a 5th incomplete line
+- you need to match total days in the month
+
+
+### Level 4 : Time spent per active day
+
+<img src="./assets/level4.png" width="200" />
+
+- The time spent per day is the sum of the time spent per exercise (end - start) of that day
 - The disk should follow these rules:
   - the area is proportional to the time spent when the time spent is less than or equal to 30min.
   - The diameter is 0px when the activity is 0min.
   - The diameter is 40px when the activity is 30min or more.
-- A sample of student activity is available in `public/student-activity.json`. It should be fetched through an HTTP request as if it was served from an API.
 
-## Expectations
+### Level 5 : Calendar with day of the week
 
-- Your reviewer will take a close look to the following criterias:
-  - The readability of the code (simplicity, variables naming, code splitting, commit naming & split...)
-  - The maintainability of the code (separation of responsibilities...)
-  - The relevance of tests if any
-- The reviewer would appreciate to see the result of your work on a URL such as github pages (or any tool of your choice).
-- You're encouraged to install any npm package that would bring value to develop this feature. We do care about the final size of the bundle (teachers often have poor connections) so take this into account if you decide to install a package (https://bundlephobia.com/ can help).
-- You're encouraged to spend around 2 hours on this test. You might not be able to do all the work asked. This is fine! But we do expect something that could be pushed to production. You are encouraged to prioritize your work accordingly and share your plan.
-- You're encouraged to log the decisions you take during this exercise and share why you chose to do so (for example use a npm package, change a specification etc.). You are allowed to change anything that seem relevant to you in the specifications. What matters is the value brought to the teachers. The way to do it is secondary.
-- Great UX would be appreciated (hover state on buttons, disabled buttons, data loading consideration etc.). We don't always get all the specs for this so developer initiatives are more than welcome.
+<img src="./assets/calendar.png" width="200" />
 
-**Tip**: you should probably not use a node package to display a calendar because Marjorie has plenty of customization ideas. It will probably be easier to maintain our own calendar layout.
+- Take into account day of the week to place your dots
+
+BONUS : 
+- display detail information on time spent on hover
+- deploy your work (github pages, vercel)
