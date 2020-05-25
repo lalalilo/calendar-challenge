@@ -2,7 +2,7 @@ import React from "react";
 import Calendar from "./calendar";
 import styled from "styled-components";
 
-export const App: React.FC = () => {
+const App: React.FC = () => {
   return <PositionedCalendar />;
 };
 
